@@ -1,4 +1,4 @@
-# Data-scientists-salary-prediction-Auto-machine_learning
+# Stroke-prediction-AutoMl-TPOT
 AutoML automatically locates and uses the optimal type of machine learning algorithm for a given task.
 I used Auto Machine Learning because it has many features, the most important of which gives very high accuracy results.
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
